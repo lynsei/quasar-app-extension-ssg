@@ -1,4 +1,8 @@
-# Static Site Generator App Extension for Quasar v2, the Vue.js Framework
+
+Use Vue SSG inside of Quasar Apps.
+
+
+Static Site Generator App Extension for Quasar v2, the Vue.js Framework
 
 > A [Quasar v2](https://quasar.dev/) App Extension to generate static site AKA [JAMstack](https://jamstack.org).
 
